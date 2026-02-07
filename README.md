@@ -45,4 +45,4 @@ pnpm run test
 ## Контакты
 Олег Кремнев
 
-[Телеграм](https://t.me/goshlegos)
+[Телеграм](https://t.me/oleg_kremnev)
