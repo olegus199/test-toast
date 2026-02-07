@@ -1,0 +1,3 @@
+export const ERROR_TOAST_DURATION = 2000;
+
+export const TOAST_UNMOUNT_DURATION = 200;
